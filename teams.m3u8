@@ -1,68 +1,70 @@
 #EXTM3U
+#EXTINF:-1 group-title="NFL", NFL RedZone
+https://fl1.moveonjoy.com/NFL_RedZone/index.m3u8
 #EXTINF:-1 group-title="NFL", Arizona Cardinals
-https://gg.poocloud.in/nfl_arizonacardinals/index.m3u8
+https://gg.poocloud.in/arizonacardinals/index.m3u8
 #EXTINF:-1 group-title="NFL", Atlanta Falcons
-https://gg.poocloud.in/nfl_atlantafalcons/index.m3u8
+https://gg.poocloud.in/atlantafalcons/index.m3u8
 #EXTINF:-1 group-title="NFL", Baltimore Ravens
-https://gg.poocloud.in/nfl_baltimoreravens/index.m3u8
+https://gg.poocloud.in/baltimoreravens/index.m3u8
 #EXTINF:-1 group-title="NFL", Buffalo Bills
-https://gg.poocloud.in/nfl_buffalobills/index.m3u8
+https://gg.poocloud.in/buffalobills/index.m3u8
 #EXTINF:-1 group-title="NFL", Carolina Panthers
-https://gg.poocloud.in/nfl_carolinapanthers/index.m3u8
+https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTINF:-1 group-title="NFL", Chicago Bears
-https://gg.poocloud.in/nfl_chicagobears/index.m3u8
+https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTINF:-1 group-title="NFL", Cincinnati Bengals
-https://gg.poocloud.in/nfl_cincinnatibengals/index.m3u8
+https://gg.poocloud.in/cincinnatibengals/index.m3u8
 #EXTINF:-1 group-title="NFL", Cleveland Browns
-https://gg.poocloud.in/nfl_clevelandbrowns/index.m3u8
+https://gg.poocloud.in/clevelandbrowns/index.m3u8
 #EXTINF:-1 group-title="NFL", Dallas Cowboys
-https://gg.poocloud.in/nfl_dallascowboys/index.m3u8
+https://gg.poocloud.in/dallascowboys/index.m3u8
 #EXTINF:-1 group-title="NFL", Denver Broncos
-https://gg.poocloud.in/nfl_denverbroncos/index.m3u8
+https://gg.poocloud.in/denverbroncos/index.m3u8
 #EXTINF:-1 group-title="NFL", Detroit Lions
-https://gg.poocloud.in/nfl_detroitlions/index.m3u8
+https://gg.poocloud.in/detroitlions/index.m3u8
 #EXTINF:-1 group-title="NFL", Green Bay Packers
-https://gg.poocloud.in/nfl_greenbaypackers/index.m3u8
+https://gg.poocloud.in/greenbaypackers/index.m3u8
 #EXTINF:-1 group-title="NFL", Houston Texans
-https://gg.poocloud.in/nfl_houstontexans/index.m3u8
+https://gg.poocloud.in/houstontexans/index.m3u8
 #EXTINF:-1 group-title="NFL", Indianapolis Colts
-https://gg.poocloud.in/nfl_indianapoliscolts/index.m3u8
+https://gg.poocloud.in/indianapoliscolts/index.m3u8
 #EXTINF:-1 group-title="NFL", Jacksonville Jaguars
-https://gg.poocloud.in/nfl_jacksonvillejaguars/index.m3u8
+https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 #EXTINF:-1 group-title="NFL", Kansas City Chiefs
-https://gg.poocloud.in/nfl_kansascitychiefs/index.m3u8
+https://gg.poocloud.in/kansascitychiefs/index.m3u8
 #EXTINF:-1 group-title="NFL", Las Vegas Raiders
-https://gg.poocloud.in/nfl_lasvegasraiders/index.m3u8
+https://gg.poocloud.in/lasvegasraiders/index.m3u8
 #EXTINF:-1 group-title="NFL", Los Angeles Chargers
-https://gg.poocloud.in/nfl_losangeleschargers/index.m3u8
+https://gg.poocloud.in/losangeleschargers/index.m3u8
 #EXTINF:-1 group-title="NFL", Los Angeles Rams
-https://gg.poocloud.in/nfl_losangelesrams/index.m3u8
+https://gg.poocloud.in/losangelesrams/index.m3u8
 #EXTINF:-1 group-title="NFL", Miami Dolphins
-https://gg.poocloud.in/nfl_miamidolphins/index.m3u8
+https://gg.poocloud.in/miamidolphins/index.m3u8
 #EXTINF:-1 group-title="NFL", Minnesota Vikings
-https://gg.poocloud.in/nfl_minnesotavikings/index.m3u8
+https://gg.poocloud.in/minnesotavikings/index.m3u8
 #EXTINF:-1 group-title="NFL", New England Patriots
-https://gg.poocloud.in/nfl_newenglandpatriots/index.m3u8
+https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTINF:-1 group-title="NFL", New Orleans Saints
-https://gg.poocloud.in/nfl_neworleanssaints/index.m3u8
+https://gg.poocloud.in/neworleanssaints/index.m3u8
 #EXTINF:-1 group-title="NFL", New York Giants
-https://gg.poocloud.in/nfl_newyorkgiants/index.m3u8
+https://gg.poocloud.in/newyorkgiants/index.m3u8
 #EXTINF:-1 group-title="NFL", New York Jets
-https://gg.poocloud.in/nfl_newyorkjets/index.m3u8
+https://gg.poocloud.in/newyorkjets/index.m3u8
 #EXTINF:-1 group-title="NFL", Philadelphia Eagles
-https://gg.poocloud.in/nfl_philadelphiaeagles/index.m3u8
+https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTINF:-1 group-title="NFL", Pittsburgh Steelers
-https://gg.poocloud.in/nfl_pittsburghsteelers/index.m3u8
+https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 group-title="NFL", San Francisco 49ers
-https://gg.poocloud.in/nfl_sanfrancisco49ers/index.m3u8
+https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
 #EXTINF:-1 group-title="NFL", Seattle Seahawks
-https://gg.poocloud.in/nfl_seattleseahawks/index.m3u8
+https://gg.poocloud.in/seattleseahawks/index.m3u8
 #EXTINF:-1 group-title="NFL", Tampa Bay Buccaneers
-https://gg.poocloud.in/nfl_tampabaybuccaneers/index.m3u8
+https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 #EXTINF:-1 group-title="NFL", Tennessee Titans
-https://gg.poocloud.in/nfl_tennesseetitans/index.m3u8
+https://gg.poocloud.in/tennesseetitans/index.m3u8
 #EXTINF:-1 group-title="NFL", Washington Commanders
-https://gg.poocloud.in/nfl_washingtoncommanders/index.m3u8
+https://gg.poocloud.in/washingtoncommanders/index.m3u8
 #EXTINF:-1 group-title="NBA", Atlanta Hawks
 https://gg.poocloud.in/nba_atlantahawks/index.m3u8
 #EXTINF:-1 group-title="NBA", Boston Celtics
